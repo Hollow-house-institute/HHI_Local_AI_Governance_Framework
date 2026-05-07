@@ -1,0 +1,2 @@
+#!/data/data/com.termux/files/usr/bin/bash
+sha256sum README.md EXECUTION_TIME_GOVERNANCE_FOR_LOCAL_AI.md STOP_AUTHORITY_MATRIX.md AI_RISK_REGISTER.md > CHECKSUMS.sha256
