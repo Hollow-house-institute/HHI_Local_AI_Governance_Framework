@@ -1,0 +1,17 @@
+{
+  "governance_event": {
+    "timestamp": "ISO8601",
+    "device_id": "edge-device-001",
+    "model_name": "gemma-4",
+    "runtime_mode": "offline",
+    "interaction_type": "multimodal",
+    "decision_boundary": "ENFORCED",
+    "behavioral_drift_score": 0,
+    "escalation_triggered": false,
+    "stop_authority": false,
+    "human_intervention": false,
+    "risk_level": "LOW",
+    "session_trace_id": "trace-001",
+    "telemetry_status": "ACTIVE"
+  }
+}
