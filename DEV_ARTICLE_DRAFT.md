@@ -1,3 +1,5 @@
+DOI: https://doi.org/10.5281/zenodo.20090515
+
 # Local AI Has a Governance Problem Nobody Is Solving
 
 Local AI systems are spreading faster than governance infrastructure.

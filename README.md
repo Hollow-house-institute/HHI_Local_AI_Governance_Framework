@@ -1,3 +1,5 @@
+DOI: https://doi.org/10.5281/zenodo.20090515
+
 # HHI_Local_AI_Governance_Framework
 
 Local AI systems are removing centralized oversight faster than organizations are replacing governance infrastructure.

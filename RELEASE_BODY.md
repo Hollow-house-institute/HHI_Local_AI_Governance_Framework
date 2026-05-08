@@ -1,3 +1,5 @@
+DOI: https://doi.org/10.5281/zenodo.20090515
+
 # HHI_Local_AI_Governance_Framework v0.1.0
 
 Initial governance infrastructure release for local AI and edge AI systems operating outside centralized oversight environments.
