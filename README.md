@@ -81,3 +81,21 @@ https://orcid.org/0009-0009-4806-1949
 - Snapshot Recovery
 - Governance Observability APIs
 - Continuous Assurance Automation
+
+## Runtime Governance API Evidence
+
+### Governance Runtime API Output
+
+![Governance API Runtime](docs/screenshots/governance_api_runtime_01.png)
+
+![Governance API Runtime 2](docs/screenshots/governance_api_runtime_02.png)
+
+The governance runtime API exposes:
+
+- governance continuity state
+- drift monitoring state
+- escalation propagation
+- intervention orchestration
+- Stop Authority activation
+
+through machine-readable runtime telemetry.
