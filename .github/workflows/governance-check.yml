@@ -14,7 +14,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Governance runtime validation
+      - name: Validate required governance artifacts
         run: |
-          echo "HHI Governance Runtime Active"
           test -f README.md
+          test -f GOVERNANCE_ARCHITECTURE.md
+          test -f GOVERNANCE_STANDARDS_CROSSWALK.md
+          test -f TELEMETRY_SCHEMA.json
+
+      - name: Validate DOI metadata
+        run: |
+          test -f CITATION.cff
+
+      - name: Generate checksum manifest
+        run: |
+          find . -type f ! -path "./.git/*" -exec sha256sum {} \; > CHECKSUMS.sha256
+
+      - name: Governance validation success
+        run: |
+          echo "HHI governance validation complete"
