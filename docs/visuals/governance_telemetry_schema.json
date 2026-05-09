@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-05-09T00:00:00Z",
+  "event": "governance_export_created",
+  "decision_boundary": "ENFORCED",
+  "drift_status": "INSUFFICIENT_TELEMETRY",
+  "escalation_level": "HIGH",
+  "intervention_status": "TRIGGERED",
+  "stop_authority": "ACTIVE",
+  "telemetry_status": "ACTIVE",
+  "governance_continuity_score": 4
+}
