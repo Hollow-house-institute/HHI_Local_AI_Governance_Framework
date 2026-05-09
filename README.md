@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20091536.svg)](https://doi.org/10.5281/zenodo.20091536)
 DOI: https://doi.org/10.5281/zenodo.20090515
 
 # HHI_Local_AI_Governance_Framework
@@ -62,3 +63,21 @@ https://doi.org/10.5281/zenodo.20044740
 
 ORCID:
 https://orcid.org/0009-0009-4806-1949
+
+## Canonical Runtime Release
+
+- Runtime Release: local-ai-governance-runtime-v0.2.0
+- DOI: https://doi.org/10.5281/zenodo.20091536
+
+## Governance Runtime Capabilities
+
+- Execution-Time Governance
+- Governance Telemetry Continuity
+- Behavioral Drift Monitoring
+- Escalation Orchestration
+- Intervention Propagation
+- Stop Authority Enforcement
+- Governance Replay Infrastructure
+- Snapshot Recovery
+- Governance Observability APIs
+- Continuous Assurance Automation
