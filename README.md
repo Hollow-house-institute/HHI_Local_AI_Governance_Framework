@@ -124,3 +124,8 @@ Example runtime response:
 ## Citation
 
 Amy Bui. (2026). Hollow-house-institute/HHI_Local_AI_Governance_Framework: HHI Local AI Governance Runtime v0.2.0 (local-ai-governance-runtime-v0.2.0). Zenodo. https://doi.org/10.5281/zenodo.20091536
+
+## Runtime Governance DOI
+
+DOI:
+https://doi.org/10.5281/zenodo.20103093
