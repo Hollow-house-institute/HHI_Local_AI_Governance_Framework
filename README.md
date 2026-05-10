@@ -99,3 +99,28 @@ The governance runtime API exposes:
 - Stop Authority activation
 
 through machine-readable runtime telemetry.
+
+## Live Runtime Governance Demonstration
+
+This repository includes an operational execution-time governance runtime demonstrating:
+
+- Behavioral Drift escalation
+- Decision Boundary enforcement
+- Stop Authority monitoring
+- append-only governance telemetry
+- checksum-bound runtime evidence persistence
+
+Example runtime response:
+
+```json
+{
+  "behavioral_drift_score": 25,
+  "decision_boundary": "ENFORCED",
+  "risk": "HIGH",
+  "stop_authority": false
+}
+
+
+## Citation
+
+Amy Bui. (2026). Hollow-house-institute/HHI_Local_AI_Governance_Framework: HHI Local AI Governance Runtime v0.2.0 (local-ai-governance-runtime-v0.2.0). Zenodo. https://doi.org/10.5281/zenodo.20091536
